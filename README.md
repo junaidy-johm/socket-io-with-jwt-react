@@ -1,4 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# socket-io-with-jwt
+Uji coba socket io dengan jwt dan react
+### Merupakan front end dari socket.io dengan jwt
+
+Untuk backend saya di [sini](https://github.com/junaidy-johm/socket-io-with-jwt)
+
+Untuk backendnya saya belajar dari [sini](https://github.com/ankitkarna99/chat-cosey-back)
+
+Untuk front endnya saya belajar dari [sini](https://github.com/ankitkarna99/chat-cosey-front)
 
 ## Available Scripts
 
