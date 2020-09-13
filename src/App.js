@@ -17,6 +17,7 @@ function App() {
         query: {
           token: localStorage.getItem("CC_Token"),
         },
+        transports: ['websocket']
       });
 
       newSocket.on("disconnect", () =>{

@@ -24,7 +24,7 @@ const ChatroomPage = ({ match, socket }) => {
       }
     if(socket){
       socket.on("newMessage",(message)=>{
-          console.log(message)
+          //console.log(message)
          const newMessages = [...messages, message];
          setMessages(newMessages)
          
